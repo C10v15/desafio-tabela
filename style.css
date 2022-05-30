@@ -1,0 +1,32 @@
+.cb-moda{
+    background-color: #BB86FC;
+    color: white;
+}
+
+.cb-moda th{
+    padding: 10px;
+}
+
+.produtos td{
+    background-color: #424250;
+    padding: 10px;
+    color: white;
+}
+
+
+.cb-casa{
+    background-color: #00C4B4;
+    color: white;
+}
+
+.cb-casa th{
+    padding: 10px;
+}
+
+
+.elemento, h2{
+    margin: 40px;
+  
+}
+
+
